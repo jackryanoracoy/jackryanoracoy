@@ -6,15 +6,15 @@
 
 #### Languages / Tools:</h4>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=jackryanoracoy&show_icons=true&locale=en&layout=compact)
-
 ![](https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,jquery,sass,react,nextjs,gatsbyjs,wordpress,bootstrap,tailwind,materialui,git,figma,ai,ps,xd)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=jackryanoracoy&show_icons=true&locale=en&layout=compact)
 
 #### Status:
 
 ![](https://streak-stats.demolab.com?user=jackryanoracoy)
 ![](https://github-readme-stats.vercel.app/api?username=jackryanoracoy&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-contributor-stats.vercel.app/api?username=jackryanoracoy&limit=5&theme=light&combine_all_yearly_contributions=true)
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=jackryanoracoy&limit=5&theme=light&combine_all_yearly_contributions=true) -->
 
 #### Connect:
 
@@ -22,4 +22,4 @@
 [Twitter](https://twitter.com/jackryanoracoy)&nbsp;&bull;&nbsp;
 [Facebook](https://fb.com/jackryanoracoy)&nbsp;&bull;&nbsp;
 [Behance](https://www.behance.net/jackryanor7dac)&nbsp;&bull;&nbsp;
-[Youtube](https://www.youtube.com/c/jackrotech)&nbsp;&bull;&nbsp;
+[Youtube](https://www.youtube.com/c/jackrotech)
