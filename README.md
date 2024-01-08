@@ -2,7 +2,7 @@
 
 ![](https://visitcount.itsvg.in/api?id=jackryanoracoy&icon=0&color=0)
 
-### As a passionate Front-end Web Developer and accomplished Web/Graphic Designer, I specialize in crafting immersive digital experiences. Proficient in HTML5, CSS3, Sass, and JavaScript, I bring creativity and technical expertise to every project. With a solid foundation in React and a knack for WordPress, I seamlessly blend aesthetics with functionality. Let's build user-centric, visually stunning websites that leave a lasting impression.
+### As a passionate Front-end Web Developer and accomplished Web/Graphic Designer, I specialize in crafting immersive digital experiences. Proficient in HTML5, CSS3, JavaScript, TypeScript, I bring creativity and technical expertise to every project. With a solid foundation in ReactJS and a knack for WordPress, I seamlessly blend aesthetics with functionality. Let's build user-centric, visually stunning websites that leave a lasting impression.
 
 #### Languages / Tools:</h4>
 
