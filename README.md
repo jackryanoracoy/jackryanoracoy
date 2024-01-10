@@ -4,6 +4,12 @@
 
 ### As a passionate Front-end Web Developer and accomplished Web/Graphic Designer, I specialize in crafting immersive digital experiences. Proficient in HTML5, CSS3, JavaScript, TypeScript, I bring creativity and technical expertise to every project. With a solid foundation in ReactJS and a knack for WordPress, I seamlessly blend aesthetics with functionality. Let's build user-centric, visually stunning websites that leave a lasting impression.
 
+#### Personal Projects:
+
+[Reusable UI Components on Turborepo](https://lngrzui-starter-docs.vercel.app/) - A collection of reusable UI components that can be used across multiple web applications. **[WIP]** \
+[Basic Template with BEM Naming convention](https://jackryanoracoy.github.io/moonshine) - A Scalable and Maintainable Architecture (BEM, ITCSS). \
+[Basic Template with ITCSS structure](https://jackryanoracoy.github.io/twilightbloom) - A Simple yet Scalable and Maintainable Architecture (ITCSS).
+
 #### Languages / Tools:</h4>
 
 ![](https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,jquery,sass,react,nextjs,gatsbyjs,wordpress,bootstrap,tailwind,materialui,git,figma,ai,ps,xd)
