@@ -6,7 +6,7 @@
 
 #### Personal Projects:
 
-[Reusable UI Components on Turborepo](https://lngrzui-starter-docs.vercel.app/) - A collection of reusable UI components that can be used across multiple web applications. **[WIP]** \
+[Reusable UI Components on Turborepo](https://lngrzui-starter-docs.vercel.app/) - **[WIP]** A collection of reusable UI components that can be used across multiple web apps. \
 [Basic Template with BEM Naming convention](https://jackryanoracoy.github.io/moonshine) - A Scalable and Maintainable Architecture (BEM, ITCSS). \
 [Basic Template with ITCSS structure](https://jackryanoracoy.github.io/twilightbloom) - A Simple yet Scalable and Maintainable Architecture (ITCSS).
 
