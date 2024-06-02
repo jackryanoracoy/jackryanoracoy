@@ -10,7 +10,8 @@
 
 [Reusable UI Components](https://lngrzui-starter-docs.vercel.app/) - **[WIP]** A collection of reusable UI components that can be used across multiple web apps. \
 [Basic Template with BEM Naming convention](https://jackryanoracoy.github.io/moonshine) - A Scalable and Maintainable Architecture (BEM, ITCSS). \
-[Basic Template with ITCSS structure](https://jackryanoracoy.github.io/twilightbloom) - A Simple yet Scalable and Maintainable Architecture (ITCSS).
+[Basic Template with ITCSS structure](https://jackryanoracoy.github.io/twilightbloom) - A Simple yet Scalable and Maintainable Architecture (ITCSS). \
+[Personal Portfolio](https://jackryanoracoy.github.io) - My Personal Portfolio, You can find my other project here...
 
 #
 
